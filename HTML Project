@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>
+        HTML Project</title>
+        <style>
+            h1 {
+                color:orangered;
+                text-align: center;
+            }
+            body {
+                font-family: cursive;
+                color:aqua;
+                background:olive ;
+                margin: 8px;
+            }
+        </style>
+    </head>
+    <body>
+        <h1>HTML Project</h1>
+        <h2>This is a link to the other pages</h2>
+        <a href="Philippage.html">Philip's page</a>
+        <a href="Francispage.html">Francis's page</a>
+        <a href="Rayanpage.html">Rayan's page</a>
+        <a href="Donalpage.html">Donal's page</a>
+    </body>
+</html>
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+            Philip's page</title>
+    </head>
+    <body>
+        <h1> This is Philip's page </h1>
+    </body>
+</html>
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+            Francis's page</title>
+    </head>
+    <body>
+        <h1> This is Francis's page <h1>
+    </body>
+</html>
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+            Rayan's page</title>
+    </head>
+    <body>
+        <h1> This is Rayan's page </h1>
+    </body>
+</html>
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+            Donal's page</title>
+    </head>
+    <body>
+        <h1> This is Donal's page </h1>
+    </body>
+</html>
