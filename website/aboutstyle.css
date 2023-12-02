@@ -1,0 +1,21 @@
+body {
+   margin: 0;
+   font-family: system-ui; 
+}
+
+.hero {
+    background-color: #074f57;
+    background-image: url("../images/trees.jpg");
+    color: white;
+    background-size: cover;
+    padding-top: 200px;
+    padding-bottom: 200px;
+}
+
+.container {
+    max-width: 960px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
