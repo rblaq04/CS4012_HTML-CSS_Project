@@ -1,22 +1,23 @@
 body {
-   margin: 0;
-   font-family: system-ui; 
-}
-
-.hero {
-    background-color: #074f57;
-    background-image: url("../images/trees.jpg");
-    color: white;
-    background-size: contain;
-    background-position: center;
-    padding-top: 200px;
-    padding-bottom: 200px;
-}
-
-.container {
-    max-width: 960px;
-    margin-left: auto;
-    margin-right: auto;
-    padding-left: 1rem;
-    padding-right: 1rem;
-}
+    margin: 0;
+    font-family: system-ui; 
+ }
+ 
+ .hero {
+     background-color: #074f57;
+     background-image: url("../images/about-us-image.jpg");
+     color: white;
+     background-size: contain;
+     background-position: center;
+     padding-top: 200px;
+     padding-bottom: 200px;
+     background-repeat: no-repeat;
+ }
+ 
+ .container {
+     max-width: 960px;
+     margin-left: auto;
+     margin-right: auto;
+     padding-left: 1rem;
+     padding-right: 1rem;
+ }
