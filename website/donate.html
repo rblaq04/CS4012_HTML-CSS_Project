@@ -5,6 +5,9 @@
         <link rel="stylesheet" href="css/style.css">
         <title>Donate</title>
         <link rel="stylesheet" href="css/donatestyle.css">
+        <script>
+            var snd = new Audio("audio/donatesound.mp3");
+        </script>
     </head>
     <body>
         <ul>
@@ -20,8 +23,8 @@
         <h2 style="color: white;">Your donation amount:</h2>
         <button class="button button1">€10</button>
         <button class="button button1">€20</button>
-        <button class="button button1">€50</button>
-        <button class="button button1">€100</button>
+        <button class="button button1" onclick="snd.play()">€50</button>
+        <button class="button button1" onclick="snd.play()">€100</button>
         <h2 style="color: white;">Complete your donation:</h2>
         <button class="button button1" onclick="window.location.href='https://www.youtube.com/watch?v=dQw4w9WgXcQ';">Complete Donation</button>
     </body>
